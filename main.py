@@ -5,7 +5,6 @@ import math
 import av
 import sdl2.ext
 import sdl2
-import numpy
 
 parser = argparse.ArgumentParser(description="Video Wall Client")
 parser.add_argument("file", type=str, help="Filename")
